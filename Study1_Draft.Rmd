@@ -1,0 +1,11 @@
+---
+title: "Sam Waddell and Fabliha Anam: Study 1 for Project B in 431"
+author: "Fabliha Anam"
+date: "`r Sys.Date()`"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
